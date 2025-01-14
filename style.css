@@ -1,0 +1,17 @@
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+
+.text_centered{
+    text-align:center
+  }
+  
+.bounded{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
